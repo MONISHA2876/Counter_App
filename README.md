@@ -58,6 +58,7 @@ I built this app to practice React state management, component structuring, and 
 ---
 
 ## 🎥 Demo Video Link (optional)
+[ Watch Demo ](./DemoVideo.webm)
 
 ---
 
