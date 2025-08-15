@@ -53,11 +53,11 @@ I built this app to practice React state management, component structuring, and 
 ---
 
 ## 📸 Screenshots of the Application UI
-
+<img src="./Screenshot 2025-08-15 222539.png" alt="Counter App Screenshot" width="500">
+<img src="./Screenshot 2025-08-15 222619.png" alt="Counter App Screenshot" width="500">
 ---
 
 ## 🎥 Demo Video Link (optional)
-*(If available, embed YouTube/Vercel video link here)*
 
 ---
 
@@ -67,7 +67,3 @@ I built this app to practice React state management, component structuring, and 
 - 🔄 Reset counter  
 - ⬆️ Set upper limit  
 - ⬇️ Set lower limit  
-- 📏 Adjust step size  
-- 🎨 "Personalize Your Counter" section  
-- 🌗 Dark/Light mode toggle *(if implemented)*
-
