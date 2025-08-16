@@ -11,7 +11,7 @@ I built this app to practice React state management, component structuring, and 
 [GitHub Repo Link](https://github.com/your-username/counter-app)
 
 ## 🌐 Live Demo
-[Live Demo on Vercel](https://your-vercel-link.vercel.app)
+[Live Demo (Verce)l](https://counter-app-eta-blond.vercel.app/)
 
 ---
 
