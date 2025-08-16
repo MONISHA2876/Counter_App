@@ -8,10 +8,10 @@ I built this app to practice React state management, component structuring, and 
 ---
 
 ## 🔗 GitHub Repository
-[GitHub Repo Link](https://github.com/your-username/counter-app)
+[GitHub Repo Link](https://github.com/MONISHA2876/Counter_App)
 
 ## 🌐 Live Demo
-[Live Demo (Verce)l](https://counter-app-eta-blond.vercel.app/)
+[Live Demo (Vercel)](https://counter-app-eta-blond.vercel.app/)
 
 ---
 
